@@ -20,7 +20,7 @@ ${colors.CYAN}██╗  ██╗ ██████╗ ███████�
 ██╔╝ ██╗╚██████╔╝███████║       ██║   ███████╗███████║   ██║   ██║ ╚████║███████╗   ██║   
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝       ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═══╝╚══════╝   ╚═╝${colors.RESET}
 ${colors.YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${colors.RESET}
-${colors.CYAN}              XOS BOT @BYDONTOL - LOGIN, DAILY TASKS & AUTO SWAP${colors.RESET}
+${colors.CYAN}              XOS BOT @MRPTECHOFFICIAL - LOGIN, DAILY TASKS & AUTO SWAP${colors.RESET}
 ${colors.YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${colors.RESET}`;
 
 class XOSCombinedBot {
