@@ -104,12 +104,6 @@ RPC_URL_XOS: https://testnet-rpc.x.ink/
 * Approval token dilakukan maksimal (`MaxUint256`)
 * Hanya gunakan di jaringan `testnet` atau wallet non-prioritas.
 
----
-
-## 📞 Kredit
-
-Bot ini dibuat oleh komunitas testnet, developer: [@BYDONTOL](https://t.me/FxcTe).
-Script didesain untuk **eksplorasi teknis dan automasi tugas testnet**.
 
 ---
 
