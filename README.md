@@ -7,13 +7,6 @@ Bot otomatis untuk menjalankan **tugas harian** dan **swap token** di jaringan *
 
 ## 🖼️ Output Terminal
 
-> Ilustrasi tampilan hasil eksekusi bot:
-
-<p align="center">
-  <img src="assets/xos.jpg" alt="XOS Bot Output" width="1000"/>
-</p>
-
-
 ## ✨ Fitur Utama
 
 ### 🔐 Login Otomatis
